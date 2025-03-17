@@ -1,4 +1,4 @@
-baseURL = 'demo-apol-theme.netlify.app'
+baseURL = '/'
 title = 'Hugo Main Title'
 theme = 'apol'
 
