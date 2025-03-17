@@ -1,0 +1,3 @@
+[submodule "themes/apol"]
+	path = themes/apol
+	url = https://github.com/anrepo/hugo-apol-theme.git
